@@ -6,7 +6,7 @@
             and library services.</li>
         <li>👨‍🔧 I mostly work with C# and Xamarin</li>    
         <li>🌱 I am on a permanent learning journey.
-        <li>📫 You can contact me via <a href="https://github.com/mhdwaelanjo">GitHub</a> or <a href="https://www.linkedin.com/in/mhdwaelanjo/">Linkedin</a></li>
+        <li>📫 You can contact me via <a href="https://wa.me/905367396359">WhatsApp Messenger</a> or <a href="https://www.linkedin.com/in/mhdwaelanjo/">Linkedin</a></li>
         <li>💞️ Fun fact: Life goes on with codes</li>
         <li>😄 Pronouns: he/him/his</li>
     </ul>
